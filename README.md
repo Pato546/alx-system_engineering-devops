@@ -1,1 +1,2 @@
-This is my first readme
+This is the readme file for the root project
+
